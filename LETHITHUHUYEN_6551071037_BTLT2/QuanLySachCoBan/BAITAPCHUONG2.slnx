@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../QuanLySanPhamCuaHang/QuanLySanPhamCuaHang.csproj" />
+  <Project Path="../TinhLuongNhanVien/TinhLuongNhanVien.csproj" />
+  <Project Path="QuanLySachCoBan.csproj" />
+</Solution>
